@@ -1,2 +1,4 @@
 # Clinical-Data-Analysis
-The repository contains the PowerBI file of the dashboard
+The working of the Dashboard can be viewed below 
+
+
